@@ -1,0 +1,6 @@
+[submodule "git/NN-PyTorch"]
+	path = git/NN-PyTorch
+	url = https://github.com/kytimmylai/NoisyNN-PyTorch
+[submodule "pytorch-image-models"]
+	path = pytorch-image-models
+	url = https://github.com/huggingface/pytorch-image-models
